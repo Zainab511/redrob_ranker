@@ -1,0 +1,17 @@
+#Large data files
+data/candidates.jsonl
+data/candidates.jsonl.gz
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
